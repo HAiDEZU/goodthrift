@@ -980,6 +980,10 @@ footer .copyright {
     padding: 14px;
 }
 
+#respo {
+    width: 100%;
+}
+
 #pp {
     width: 100%;
     background-size: cover;
